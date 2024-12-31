@@ -2,6 +2,7 @@
 
 a. Install dependencies: `npm install`
 b. Run server: `node server.js`
+c. Hit this url in your browser: http://localhost:300
 
 # How To Test
 
